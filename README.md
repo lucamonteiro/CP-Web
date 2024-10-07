@@ -1,3 +1,5 @@
+Luca Monteiro RM: 556906
+
 Este é o repositório do meu portfólio, desenvolvido com React, Vite, Tailwind CSS e JavaScript. O objetivo deste projeto é apresentar projetos, habilidades e experiências de maneira interativa e design responsivo.
 
 Tecnologias Utilizadas
